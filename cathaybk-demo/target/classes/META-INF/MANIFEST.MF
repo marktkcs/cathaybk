@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Built-By: ALL
-Build-Jdk: 22.0.2
-Implementation-Title: cathaybk-demo
-Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: com.example
-Implementation-URL: 
-Created-By: Maven Integration for Eclipse
-
